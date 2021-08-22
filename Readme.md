@@ -12,8 +12,7 @@ To summarize and compare this data, I had to make a pivot table. The pivot table
 
 #### Results and Conclusions Based on Launch Date
 
-![Theater_Outcomes_vs_Launch] C:\Users\jill\Pictures\Resources\ Theater_Outcomes_vs_Launch.png
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88689043/130372382-eed0967c-9ecb-40bb-854c-7aacf5b2b87f.png)
 
 Louise launched her play in June, when there were 100 successful plays, with a 65% rate of success. As pictured in the graph, the most successful month to launch a play occurs in May with 111 successful plays and a 67% success rate. If Louise launched the play a month earlier, she would have had a better chance of having a successful play. After May, the line graph shows success trending downwards, meaning that there are typically less successful number of plays as the year goes on. The least successful month for plays occurs in December, so ideally Louise shouldn’t do her play in December, or for that matter, any time after May.
 
@@ -24,8 +23,7 @@ Another factor I looked at included the goal fundraising amount. I used a CountI
 
 #### Results and Conclusions Based on Goals
 
-![Outcomes_vs_goals] C:\Users\jill\Pictures\Resources\Outcomes_vs_Goals.png
-
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88689043/130372369-0023b89c-40b7-4fae-bf0c-1c41f039f135.png)
 
 After creating the line graph, it is apparent that the most successful plays occur when the goal is under $1k. Louis’s goal was to fundraise $2,885k, so her play did not fall in the most successful fundraising goal range. If her goal was a smaller, potentially under $1k, it is more likely that her play would have been successful. For the most part, the goal amount of money raised has an indirect relationship with success. As the goal is higher, the percentage of successful plays becomes lower. It should be noted, this trend stops after the $30,000 and up range. Therefore, my suggestion for Louise, would be to stay under $1k for her goal. 
 

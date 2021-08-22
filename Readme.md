@@ -40,7 +40,7 @@ One of the limitations in this data would be to include more data for just the U
 Another limitation of this data is that we didn’t take enough samples. 729 Plays is not very many plays when you take into consideration the entire population of fundraising plays. 
 
 In addition, we didn’t look at enough factors to determine what else could have played a role on the different outcomes. Here are some other tables we could have made 
-•	Number of backers vs outcome
-•	Average pledged vs outcome
-•	Outcomes by countries
-•	Pledged amount vs success rate
+*	Number of backers vs outcome
+*	Average pledged vs outcome
+*	Outcomes by countries
+*	Pledged amount vs success rate
